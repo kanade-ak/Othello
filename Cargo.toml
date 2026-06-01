@@ -1,0 +1,12 @@
+[package]
+name = "othello_full_search"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0"
+ctrlc = "3.4"
+num-bigint = "0.4"
+num-traits = "0.2"
+rusqlite = { version = "0.32", features = ["bundled"] }
+

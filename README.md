@@ -7,7 +7,6 @@
 ## 使い方
 
 ```powershell
-cd E:\Chess\Othello
 cargo build --release
 ```
 
